@@ -215,7 +215,7 @@ This guide is specifically designed for **Backend AI Engineer** positions that r
 ```
 Back_End_AI_Engg/
 ├── README.md                                    # This file
-├── Backend_AI_Engineer_Interview_Questions.csv  # 300 Q&A in CSV format
+├── Backend_AI_Engineer_Interview_Questions.csv  # 139 Q&A in CSV format
 └── study-guide/                                 # Additional resources (future)
     ├── python-basics/
     ├── fastapi-examples/
