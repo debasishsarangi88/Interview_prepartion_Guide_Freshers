@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This repository contains a comprehensive collection of **300 unique interview questions and answers** specifically designed for **B.Tech CSE fresh graduates** preparing for **Backend AI Engineer** positions. The questions are carefully curated based on real job descriptions and industry requirements.
+This repository contains a comprehensive collection of **139 unique interview questions and answers** specifically designed for **B.Tech CSE fresh graduates** preparing for **Backend AI Engineer** positions. The questions are carefully curated based on real job descriptions and industry requirements.
 
 ## 📋 Table of Contents
 
@@ -18,56 +18,56 @@ This repository contains a comprehensive collection of **300 unique interview qu
 
 The interview questions are organized into **8 core technical areas**:
 
-### 1. **Python Programming & Backend Frameworks** (40 questions)
+### 1. **Python Programming & Backend Frameworks** (20 questions)
 - Python fundamentals and advanced concepts
 - Object-oriented programming
 - Data structures and algorithms
 - Memory management and performance
 - Best practices and coding standards
 
-### 2. **FastAPI & Web APIs** (40 questions)
+### 2. **FastAPI & Web APIs** (20 questions)
 - FastAPI framework fundamentals
 - API design and development
 - Authentication and authorization
 - Testing and deployment
 - Performance optimization
 
-### 3. **AI/ML & GenAI Concepts** (40 questions)
+### 3. **AI/ML & GenAI Concepts** (20 questions)
 - Large Language Models (LLMs)
 - Generative AI fundamentals
 - Fine-tuning techniques (LoRA, DPO, SFT)
 - Model serving frameworks (vLLM, Triton, Ray)
 - RAG (Retrieval-Augmented Generation)
 
-### 4. **System Design & Architecture** (40 questions)
+### 4. **System Design & Architecture** (20 questions)
 - Scalable system design
 - Microservices architecture
 - Load balancing and caching
 - Distributed systems concepts
 - Performance optimization
 
-### 5. **Cloud Infrastructure** (40 questions)
+### 5. **Cloud Infrastructure** (20 questions)
 - AWS, GCP, Azure services
 - Serverless computing
 - Auto-scaling and monitoring
 - Security best practices
 - Cost optimization
 
-### 6. **Database & Vector Databases** (40 questions)
+### 6. **Database & Vector Databases** (20 questions)
 - SQL and NoSQL databases
 - Vector databases (Pinecone, Weaviate, Milvus)
 - Embeddings and semantic search
 - Database optimization
 - RAG implementation
 
-### 7. **Docker & Kubernetes** (40 questions)
+### 7. **Docker & Kubernetes** (20 questions)
 - Containerization concepts
 - Docker best practices
 - Kubernetes orchestration
 - Deployment strategies
 - Monitoring and debugging
 
-### 8. **Problem Solving & Debugging** (40 questions)
+### 8. **Problem Solving & Debugging** (19 questions)
 - Debugging techniques
 - Performance optimization
 - Error handling
@@ -92,7 +92,7 @@ Each question is categorized with:
 6. **Develop problem-solving skills** - Practice Problem Solving & Debugging
 
 ### Study Approach:
-- **Daily Practice**: Study 10-15 questions per day
+- **Daily Practice**: Study 5-7 questions per day
 - **Hands-on Coding**: Implement examples from answers
 - **Mock Interviews**: Practice explaining concepts out loud
 - **Project Building**: Apply concepts in real projects
@@ -176,7 +176,7 @@ Back_End_AI_Engg/
 - **Compatible with Excel, Google Sheets, and any CSV reader**
 - **UTF-8 encoded** for proper character support
 - **Comma-separated values** with proper escaping
-- **300 rows** of questions and answers
+- **139 rows** of questions and answers
 
 ### Usage:
 ```bash
@@ -264,6 +264,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Last updated: January 2025*
-*Total Questions: 300*
+*Total Questions: 139*
 *Target Audience: B.Tech CSE Fresh Graduates*
 *Focus Area: Backend AI Engineer Positions*
