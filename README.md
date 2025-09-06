@@ -126,7 +126,59 @@ Each question is categorized with:
 
 ## 🛠️ Resources
 
-### Recommended Learning Path:
+### 📺 YouTube Learning Series
+
+#### 1. **Python Programming & Backend Frameworks**
+- **[Corey Schafer - Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)** - Comprehensive Python fundamentals
+- **[TechWorld with Nana - Python Backend Development](https://www.youtube.com/playlist?list=PLy7NrYWoggjwVr5-EbFa8s8VJj1rbDmzT)** - Backend development with Python
+- **[Programming with Mosh - Python Tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc)** - Beginner-friendly Python course
+- **[Real Python](https://www.youtube.com/c/RealPython)** - Advanced Python concepts and best practices
+
+#### 2. **FastAPI & Web APIs**
+- **[FastAPI Official Channel](https://www.youtube.com/c/FastAPI)** - Official FastAPI tutorials and updates
+- **[TechWorld with Nana - FastAPI Tutorial](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjSvfS7cFUvBc)** - Complete FastAPI course
+- **[Code with Mosh - FastAPI Course](https://www.youtube.com/watch?v=7t2alSnE2-I)** - Building APIs with FastAPI
+- **[Pretty Printed - FastAPI Series](https://www.youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1BtXhNnLrd0XzF)** - FastAPI for beginners
+
+#### 3. **AI/ML & GenAI Concepts**
+- **[3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)** - Visual explanations of AI concepts
+- **[Sentdex - Machine Learning](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)** - Practical ML tutorials
+- **[Two Minute Papers](https://www.youtube.com/c/TwoMinutePapers)** - Latest AI research explained simply
+- **[Hugging Face - Transformers Course](https://www.youtube.com/playlist?list=PLo2EIpI_jEcCqjOOKJ_3a8GjqciFLhY0v)** - LLMs and transformers
+- **[Andrej Karpathy - Neural Networks](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)** - Deep learning fundamentals
+
+#### 4. **System Design & Architecture**
+- **[Gaurav Sen - System Design](https://www.youtube.com/c/GauravSensei)** - System design interviews
+- **[Tech Dummies - System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)** - Scalable system design
+- **[Success in Tech - System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPpvoX)** - System design concepts
+- **[Exponent - System Design](https://www.youtube.com/c/ExponentTV)** - Interview preparation
+
+#### 5. **Cloud Infrastructure**
+- **[AWS - Official Channel](https://www.youtube.com/c/AmazonWebServices)** - AWS services and tutorials
+- **[Google Cloud Tech](https://www.youtube.com/c/GoogleCloudTech)** - GCP services and best practices
+- **[Microsoft Azure](https://www.youtube.com/c/MicrosoftAzure)** - Azure cloud platform
+- **[TechWorld with Nana - DevOps](https://www.youtube.com/playlist?list=PLy7NrYWoggjwPggqtFsI_zMAwvG0SqYCb)** - DevOps and cloud concepts
+- **[FreeCodeCamp - Cloud Computing](https://www.youtube.com/watch?v=2LaAJq1lB1Q)** - Cloud fundamentals
+
+#### 6. **Database & Vector Databases**
+- **[TechWorld with Nana - Databases](https://www.youtube.com/playlist?list=PLy7NrYWoggjwi9GPya_s6Jov3GlLOPk5F)** - Database concepts
+- **[Caleb Curry - Database Design](https://www.youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlGoID)** - SQL and database design
+- **[Pinecone - Vector Databases](https://www.youtube.com/c/Pinecone)** - Vector database tutorials
+- **[Weaviate - Vector Search](https://www.youtube.com/c/Weaviate)** - Vector database concepts
+
+#### 7. **Docker & Kubernetes**
+- **[TechWorld with Nana - Docker](https://www.youtube.com/playlist?list=PLy7NrYWoggjwxd4BpFrJpXJ4BfS0GHAeo)** - Docker fundamentals
+- **[TechWorld with Nana - Kubernetes](https://www.youtube.com/playlist?list=PLy7NrYWoggjxFyjD8oB-LERtvvL7uVnA9)** - Kubernetes orchestration
+- **[Docker - Official Channel](https://www.youtube.com/c/Docker)** - Docker tutorials and updates
+- **[Kubernetes - Official Channel](https://www.youtube.com/c/KubernetesCommunity)** - K8s official content
+
+#### 8. **Problem Solving & Debugging**
+- **[TechWorld with Nana - Debugging](https://www.youtube.com/playlist?list=PLy7NrYWoggjz2lpx6HEQaRy1I1FUugYzK)** - Debugging techniques
+- **[Corey Schafer - Debugging](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)** - Python debugging
+- **[FreeCodeCamp - Problem Solving](https://www.youtube.com/watch?v=8hly31xKli0)** - Algorithm problem solving
+- **[CS Dojo - Problem Solving](https://www.youtube.com/c/CSDojo)** - Coding interview preparation
+
+### 📚 Recommended Learning Path:
 1. **Python**: [Python.org Tutorial](https://docs.python.org/3/tutorial/)
 2. **FastAPI**: [FastAPI Documentation](https://fastapi.tiangolo.com/)
 3. **AI/ML**: [Hugging Face Course](https://huggingface.co/course)
@@ -134,7 +186,7 @@ Each question is categorized with:
 5. **Cloud**: [AWS Free Tier](https://aws.amazon.com/free/)
 6. **Docker**: [Docker Getting Started](https://docs.docker.com/get-started/)
 
-### Practice Platforms:
+### 🎯 Practice Platforms:
 - [LeetCode](https://leetcode.com/) - Coding problems
 - [HackerRank](https://www.hackerrank.com/) - Technical skills
 - [Kaggle](https://www.kaggle.com/) - AI/ML projects
