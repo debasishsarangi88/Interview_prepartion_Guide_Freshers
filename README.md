@@ -149,9 +149,10 @@ Each question is categorized with:
 
 #### 4. **System Design & Architecture**
 - **[Gaurav Sen - System Design](https://www.youtube.com/c/GauravSensei)** - System design interviews
+- **[Sudo Code - System Design](https://www.youtube.com/c/SudoCode)** - System design concepts and algorithms
+- **[Exponent - System Design](https://www.youtube.com/c/ExponentTV)** - Interview preparation
 - **[Tech Dummies - System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)** - Scalable system design
 - **[Success in Tech - System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPpvoX)** - System design concepts
-- **[Exponent - System Design](https://www.youtube.com/c/ExponentTV)** - Interview preparation
 
 #### 5. **Cloud Infrastructure**
 - **[AWS - Official Channel](https://www.youtube.com/c/AmazonWebServices)** - AWS services and tutorials
