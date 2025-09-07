@@ -97,33 +97,6 @@ Each question is categorized with:
 - **Mock Interviews**: Practice explaining concepts out loud
 - **Project Building**: Apply concepts in real projects
 
-## 📅 Study Plan
-
-### Week 1-2: Foundation
-- Python Programming & Backend Frameworks
-- Basic FastAPI concepts
-
-### Week 3-4: Core Development
-- Advanced FastAPI & Web APIs
-- Database fundamentals
-
-### Week 5-6: AI/ML Integration
-- AI/ML & GenAI Concepts
-- Vector databases
-
-### Week 7-8: System Design
-- System Design & Architecture
-- Cloud Infrastructure basics
-
-### Week 9-10: Production Ready
-- Docker & Kubernetes
-- Problem Solving & Debugging
-
-### Week 11-12: Practice & Review
-- Mock interviews
-- Project implementation
-- Final review
-
 ## 🛠️ Resources
 
 ### 📺 YouTube Learning Series
